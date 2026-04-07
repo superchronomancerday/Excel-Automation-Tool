@@ -2,7 +2,7 @@
 
 
 
-# 📊 Excel Automation Tools 2026 — Spreadsheet Power Suite & Macro Manager
+# 📊📊 Excel Automation Tools 2026 — Spreadsheet Power Suite & Macro Manager
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Excel-Automation-Tools)](https://github.com/Alexantros341/Excel-Automation-Tools)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
