@@ -151,4 +151,4 @@ MIT License — shared for educational purposes only.
 If this toolkit made your **Excel** work faster and smarter 🔥 — drop a ⭐!  
 It helps others find the **best Excel automation tools** in 2026. 📊🤖
 
----
+--- 
